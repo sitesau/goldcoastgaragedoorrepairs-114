@@ -1,0 +1,22 @@
+{
+  "wheel_id": 982,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-114",
+  "project": "garage-door-repair-gold-coast-seasonal-timing-9c8f7307eff79298b",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-156",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repair gold coast seasonal timing",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repair-gold-coast-seasonal-timing-9c8f7307eff79298b/",
+  "tier": "T2",
+  "writeback_nonce": "2f265ca6961c62c6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-156/",
+      "anchor": "garage door repair gold coast diy vs professional",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
